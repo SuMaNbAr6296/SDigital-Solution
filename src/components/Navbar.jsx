@@ -40,7 +40,7 @@ const Navbar = ({ onOpenModal }) => {
               <Rocket className="w-6 h-6 text-white" />
             </div>
             <span className="text-2xl font-bold font-display tracking-tight text-gray-900 group-hover:text-primary transition-colors">
-              S<span className="text-primary">Digital Solution</span>
+              DE<span className="text-primary">OS</span>
             </span>
           </a>
 
