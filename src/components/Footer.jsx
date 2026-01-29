@@ -16,7 +16,7 @@ const Footer = () => {
                                 <Rocket className="w-5 h-5 text-white" />
                             </div>
                             <span className="text-lg font-bold font-display text-white">
-                                S<span className="text-secondary">Digital Solution</span>
+                                DE<span className="text-secondary">OS</span>
                             </span>
                         </div>
                         <p className="text-gray-400 text-sm leading-relaxed mb-6">
